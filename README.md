@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://justekal-map.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a1a33?style=for-the-badge&logo=googlemaps&logoColor=5ad1ff" alt="Portfolio"></a>
   <a href="https://forgemods.de/creators/justekal"><img src="https://img.shields.io/badge/Forge_Mods-ffb547?style=for-the-badge&logo=shopify&logoColor=0a1a33" alt="Forge Mods store"></a>
-  <a href="https://bsky.app/profile/justekal.be"><img src="https://img.shields.io/badge/Bluesky-0a1a33?style=for-the-badge&logo=bluesky&logoColor=5ad1ff" alt="Bluesky"></a>
+  <a href="https://bsky.app/profile/justekal.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0a1a33?style=for-the-badge&logo=bluesky&logoColor=5ad1ff" alt="Bluesky"></a>
   <a href="https://x.com/justekal_"><img src="https://img.shields.io/badge/@justekal__-0a1a33?style=for-the-badge&logo=x&logoColor=dcecff" alt="X"></a>
   <img src="https://img.shields.io/badge/Discord-justekal-0a1a33?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0a1a33" alt="Discord: justekal">
 </p>
